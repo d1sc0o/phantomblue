@@ -9,11 +9,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8a3867&center=true&width=435&lines=%E3%82%9Bdoes+love+kill+%2C%2C+%E3%82%9B;%E3%82%9Bor+make+you+whole%3F+%E3%82%9B)](https://git.io/typing-svg)
 
-<img width="171" height="171" alt="Phantom_Dragon__fliter--cherry-icecream__channel--red__mode--screen" src="https://github.com/user-attachments/assets/326828cf-1293-4ca5-9422-48a27a6dcacf" />
-
-
 
 $${\color{#c35bbb} ✦•┈๑⋅⋯ ⋯⋅๑┈•✦}$$
+
+<img width="171" height="171" alt="Phantom_Dragon__fliter--cherry-icecream__channel--red__mode--screen" src="https://github.com/user-attachments/assets/326828cf-1293-4ca5-9422-48a27a6dcacf" />
+
 
 ![Static Badge](https://img.shields.io/badge/phantom-phantom?logo=undertale&logoColor=%23c25cba&label=cupid&labelColor=grey&color=%23b34a86)
 
